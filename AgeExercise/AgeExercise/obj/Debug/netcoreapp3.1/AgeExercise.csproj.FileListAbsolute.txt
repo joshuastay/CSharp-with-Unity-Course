@@ -1,0 +1,13 @@
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\bin\Debug\netcoreapp3.1\AgeExercise.exe
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\bin\Debug\netcoreapp3.1\AgeExercise.deps.json
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\bin\Debug\netcoreapp3.1\AgeExercise.runtimeconfig.json
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\bin\Debug\netcoreapp3.1\AgeExercise.runtimeconfig.dev.json
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\bin\Debug\netcoreapp3.1\AgeExercise.dll
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\bin\Debug\netcoreapp3.1\AgeExercise.pdb
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\obj\Debug\netcoreapp3.1\AgeExercise.csprojAssemblyReference.cache
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\obj\Debug\netcoreapp3.1\AgeExercise.AssemblyInfoInputs.cache
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\obj\Debug\netcoreapp3.1\AgeExercise.AssemblyInfo.cs
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\obj\Debug\netcoreapp3.1\AgeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\obj\Debug\netcoreapp3.1\AgeExercise.dll
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\obj\Debug\netcoreapp3.1\AgeExercise.pdb
+C:\Users\Josh and Brittney\source\repos\AgeExercise\AgeExercise\obj\Debug\netcoreapp3.1\AgeExercise.genruntimeconfig.cache
